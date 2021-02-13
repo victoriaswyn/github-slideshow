@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Blaire Tiger Lily
 Use the left arrow to go back!
